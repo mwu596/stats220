@@ -2,7 +2,7 @@
 
 ## About
 
-Hi! My name is **Milton** and this is my repo for my work relating to **STATS220** this semester. This repo will showcase evidence of my learnings ofa ll the fun topics in the course! Hope you enjoy your browse :D
+Hi! My name is **Milton** and this is my repo for my work relating to **STATS220** this semester. This repo will showcase evidence of my learnings of all the fun topics in the course! Hope you enjoy your browse :D
 
 ## Content (*will fill in as I go through the course*)
 * Memes!
